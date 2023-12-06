@@ -1,0 +1,189 @@
+{
+  "DelitosContraLasPersonas": {
+    "CapituloI": {
+      "Titulo": "Delitos contra la vida",
+      "Articulos": [
+        {
+          "Articulo": "79",
+          "Verbo": "aplicará",
+          "Contexto": "reclusión o prisión de ocho a veinticinco años, al que matare a otro siempre que en este código no se estableciere otra pena",
+          "Temporalidad": "reclusión o prisión de ocho a veinticinco años",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "80",
+          "Verbo": "impondrá",
+          "Contexto": "reclusión perpetua o prisión perpetua, pudiendo aplicarse lo dispuesto en el artículo 52, al que matare:",
+          "Temporalidad": "reclusión perpetua o prisión perpetua",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "81",
+          "Verbo": "impondrá",
+          "Contexto": "reclusión de tres a seis años, o prisión de uno a tres años:",
+          "Temporalidad": "reclusión de tres a seis años, o prisión de uno a tres años",
+          "Cardinalidad": -1
+        }
+      ]
+    },
+    "CapituloII": {
+      "Titulo": "Lesiones",
+      "Articulos": [
+        {
+          "Articulo": "89",
+          "Verbo": "impondrá",
+          "Contexto": "prisión de un mes a un año, al que causare a otro, en el cuerpo o en la salud, un daño que no esté previsto en otra disposición de este código",
+          "Temporalidad": "prisión de un mes a un año",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "90",
+          "Verbo": "impondrá",
+          "Contexto": "reclusión o prisión de uno a seis años, si la lesión produjere una debilitación permanente de la salud, de un sentido, de un órgano, de un miembro o una dificultad permanente de la palabra o si hubiere puesto en peligro la vida del ofendido, le hubiere inutilizado para el trabajo por más de un mes o le hubiere causado una deformación permanente del rostro",
+          "Temporalidad": "reclusión o prisión de uno a seis años",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "91",
+          "Verbo": "impondrá",
+          "Contexto": "reclusión o prisión de tres a diez años, si la lesión produjere una enfermedad mental o corporal, cierta o probablemente incurable, la inutilidad permanente para el trabajo, la pérdida de un sentido, de un órgano, de un miembro, del uso de un órgano o miembro, de la palabra o de la capacidad de engendrar o concebir",
+          "Temporalidad": "reclusión o prisión de tres a diez años",
+          "Cardinalidad": -1
+        }
+      ]
+    },
+    "CapituloIII": {
+      "Titulo": "Homicidio o lesiones en riña",
+      "Articulos": [
+        {
+          "Articulo": "95",
+          "Verbo": "resultare",
+          "Contexto": "muerte o lesiones de las determinadas en los artículos 90 y 91, sin que constare quiénes las causaron",
+          "Temporalidad": "reclusión o prisión de dos a seis años en caso de muerte y de uno a cuatro en caso de lesión",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "96",
+          "Verbo": "fueren",
+          "Contexto": "las lesiones previstas en el artículo 89",
+          "Temporalidad": "pena aplicable será de cuatro a ciento veinte días de prisión",
+          "Cardinalidad": -1
+        }
+      ]
+    },
+    "CapituloIV": {
+      "Titulo": "Duelo",
+      "Articulos": [
+        {
+          "Articulo": "97",
+          "Verbo": "batieren",
+          "Contexto": "en duelo, con intervención de dos o más padrinos",
+          "Temporalidad": "Con prisión de uno a seis meses, al que no infiriere lesión a su adversario o sólo le causare una lesión de las determinadas en el artículo 89",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "98",
+          "Verbo": "batieren",
+          "Contexto": "sin la intervención de padrinos, mayores de edad, que elijan las armas y arreglen las demás condiciones del desafío",
+          "Temporalidad": "El que matare a su adversario, con la pena señalada para el homicida; El que causare lesiones, con la pena señalada para el autor de lesiones; El que no causare lesiones, con prisión de un mes a un año",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "99",
+          "Verbo": "instigare",
+          "Contexto": "a provocar o a aceptar un duelo y el que desacreditare públicamente a otro por no desafiar o por rehusar un desafío",
+          "Temporalidad": "Con multa de pesos mil a pesos quince mil si el duelo no se realizare o si realizándose, no se produjere muerte ni lesiones o sólo lesiones de las comprendidas en el artículo 89. Con prisión de uno a cuatro años, si se causare muerte o lesiones de las mencionadas en los artículos 90 y 91",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "100",
+          "Verbo": "provocare",
+          "Contexto": "o diere causa a un desafío, proponiéndose un interés pecuniario u otro objeto inmoral",
+          "Temporalidad": "Con prisión de uno a cuatro años, si el duelo no se verificare o si efectuándose, no resultare muerte ni lesiones. Con reclusión o prisión de tres a diez años, si el duelo se realizare y resultaren lesiones; Con reclusión o prisión de diez a veinticinco años, si se produjere la muerte",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "101",
+          "Verbo": "combatiente",
+          "Contexto": "que faltare, en daño de su adversario, a las condiciones ajustadas por los padrinos",
+          "Temporalidad": "Con reclusión o prisión de tres a diez años, si causare lesiones a su adversario. Con reclusión o prisión de diez a veinticinco años, si le causare la muerte",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "102",
+          "Verbo": "padrinos",
+          "Contexto": "de un duelo que usaren cualquier género de alevosía en la ejecución del mismo",
+          "Temporalidad": "Serán reprimidos con las penas señaladas en el artículo anterior, según fueren las consecuencias que resultaren",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "103",
+          "Verbo": "padrinos",
+          "Contexto": "conciertaren un duelo a muerte o en condiciones tales que de ellas debiere resultar la muerte",
+          "Temporalidad": "Serán reprimidos con reclusión o prisión de uno a cuatro años, si se verificare la muerte de alguno de los combatientes. Si no se verificare la muerte de alguno de ellos, la pena será de multa de pesos mil a pesos quince mil",
+          "Cardinalidad": -1
+        }
+      ]
+    },
+    "CapituloV": {
+      "Titulo": "Abuso de armas",
+      "Articulos": [
+        {
+          "Articulo": "104",
+          "Verbo": "disparare",
+          "Contexto": "un arma de fuego contra una persona sin herirla",
+          "Temporalidad": "Con uno a tres años de prisión",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "104",
+          "Verbo": "causare",
+          "Contexto": "herida a que corresponda pena menor, siempre que el hecho no importe un delito más grave",
+          "Temporalidad": "Con uno a tres años de prisión",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "104",
+          "Verbo": "reprimida",
+          "Contexto": "la agresión con toda arma, aunque no se causare herida",
+          "Temporalidad": "Con prisión de quince días a seis meses",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "105",
+          "Verbo": "concurriera",
+          "Contexto": "alguna de las circunstancias previstas en los artículos 80 y 81, inciso 1o, letra a)",
+          "Temporalidad": "la pena se aumentará o disminuirá en un tercio respectivamente",
+          "Cardinalidad": -1
+        }
+      ]
+    },
+    "CapituloVI": {
+      "Titulo": "Abandono de personas",
+      "Articulos": [
+        {
+          "Articulo": "106",
+          "Verbo": "pusiere",
+          "Contexto": "en peligro la vida o la salud de otro, sea colocándolo en situación de desamparo, sea abandonando a su suerte a una persona incapaz de valerse y a la que deba mantener o cuidar o a la que el mismo autor haya incapacitado",
+          "Temporalidad": "Con prisión de 2 a 6 años. La pena será de reclusión o prisión de 3 a 10 años, si a consecuencia del abandono resultare grave daño en el cuerpo o en la salud de la víctima. Si ocurriere la muerte, la pena será de 5 a 15 años de reclusión o prisión.",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "107",
+          "Verbo": "aumentados",
+          "Contexto": "en un tercio cuando el delito fuera cometido por los padres contra sus hijos y por éstos contra aquéllos o por el cónyuge",
+          "Temporalidad": "El máximum y el mínimum de las penas establecidas en el artículo precedente, serán aumentados en un tercio",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "108",
+          "Verbo": "omitiere",
+          "Contexto": "prestarle el auxilio necesario, cuando pudiere hacerlo sin riesgo personal o no diere aviso inmediatamente a la autoridad",
+          "Temporalidad": "Será reprimido con multa de pesos setecientos cincuenta a pesos doce mil quinientos",
+          "Cardinalidad": -1
+        }
+      ]
+    }
+  ]
+}
+

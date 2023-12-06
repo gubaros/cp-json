@@ -1,0 +1,98 @@
+{
+  "Capitulo": "Delitos contra la libertad",
+  "Titulo": "Libro Segundo - Código Penal Argentino",
+  "Articulos": [
+    {
+      "Articulo": "140",
+      "Verbo": "reducir",
+      "Contexto": "redujere a una persona a servidumbre o a otra condición análoga y el que la recibiere en tal condición para mantenerla en ella.",
+      "Temporalidad": "de tres a quince años",
+      "Cardinalidad": "Negativa"
+    },
+    {
+      "Articulo": "141",
+      "Verbo": "privar",
+      "Contexto": "ilegalmente privare a otro de su libertad personal.",
+      "Temporalidad": "de seis meses a tres años",
+      "Cardinalidad": "Negativa"
+    },
+    {
+      "Articulo": "142",
+      "Verbo": "privar",
+      "Contexto": "privare a otro de su libertad personal, cuando concurra alguna de las circunstancias siguientes: 1. Si el hecho se cometiere con violencias o amenazas o con fines religiosos o de venganza; 2. Si el hecho se cometiere en la persona de un ascendiente, de un hermano, del cónyuge o de otro individuo a quien se deba respeto particular; 3. Si resultare grave daño a la persona, a la salud o a los negocios del ofendido, siempre que el hecho no importare otro delito por el cual la ley imponga pena mayor; 4. Si el hecho se cometiere simulando autoridad pública u orden de autoridad pública; 5. Si la privación de la libertad durare más de un mes.",
+      "Temporalidad": "de dos a seis años",
+      "Cardinalidad": "Negativa"
+    },
+    {
+      "Articulo": "142 bis",
+      "Verbo": "sustraer",
+      "Contexto": "sustrajere, retuviere u ocultare a una persona con el fin de obligar a la víctima o a un tercero, a hacer, no hacer, o tolerar algo contra su voluntad.",
+      "Temporalidad": "de cinco (5) a quince (15) años",
+      "Cardinalidad": "Negativa"
+    },
+    {
+      "Articulo": "143",
+      "Verbo": "retener",
+      "Contexto": "funcionario que retuviera a un detenido o preso, cuya soltura haya debido decretar o ejecutar; 2o. El funcionario que prolongare indebidamente la detención de una persona, sin ponerla a disposición del juez competente; 3o. El funcionario que incomunicare indebidamente a un detenido; 4o. El jefe de prisión u otro establecimiento penal, o el que lo reemplace, que recibiera algún reo sin testimonio de la sentencia firme en que se le hubiere impuesto la pena o lo colocare en lugares del establecimiento que no sean los señalados al efecto; 5o. El alcaide o empleado de las cárceles de detenidos y seguridad que recibiere un preso sin orden de autoridad competente, salvo el caso de flagrante delito; 6o. El funcionario competente que teniendo noticias de una detención ilegal omitiere, retardare o rehusare hacerla cesar o dar cuenta a la autoridad que deba resolver.",
+      "Temporalidad": "de uno a tres años e inhabilitación especial por doble tiempo",
+      "Cardinalidad": "Negativa"
+    },
+    {
+      "Articulo": "144",
+      "Verbo": "elevar",
+      "Contexto": "casos del artículo anterior concurriere alguna de las circunstancias enumeradas en los incisos 1, 2, 3 y 5 del artículo 142, el máximo de la pena privativa de la libertad se elevará a cinco años.",
+      "Temporalidad": "Variante",
+      "Cardinalidad": "Negativa"
+    },
+    {
+      "Articulo": "144 bis",
+      "Verbo": "cometer",
+      "Contexto": "funcionario público que, con abuso de sus funciones o sin las formalidades prescriptas por la ley, privase a alguno de su libertad personal; 2. El funcionario que desempeñando un acto de servicio cometiera cualquier vejación contra las personas o les aplicare apremios ilegales; 3. El funcionario público que impusiere a los presos que guarde, severidades, vejaciones, o apremios ilegales.",
+      "Temporalidad": "de uno a cinco años de prisión o reclusión de dos a seis años",
+      "Cardinalidad": "Negativa"
+    },
+    {
+      "Articulo": "144 ter",
+      "Verbo": "imponer",
+      "Contexto": "será reprimido con reclusión o prisión de ocho a veinticinco años e inhabilitación absoluta y perpetua el funcionario público que impusiere a personas, legítima o ilegítimamente privadas de su libertad, cualquier clase de tortura.",
+      "Temporalidad": "de ocho a veinticinco años e inhabilitación absoluta y perpetua",
+      "Cardinalidad": "Negativa"
+    },
+    {
+      "Articulo": "144 quater",
+      "Verbo": "imponer",
+      "Contexto": "será reprimido con prisión de tres a diez años al funcionario que omitiese evitar la comisión de alguno de los hechos del artículo anterior, cuando tuviese competencia para ello.",
+      "Temporalidad": "de tres a diez años",
+      "Cardinalidad": "Negativa"
+    },
+    {
+      "Articulo": "144 quinto",
+      "Verbo": "ejecutar",
+      "Contexto": "ejecutase el hecho previsto en el artículo 144 tercero, se impondrá prisión de seis meses a dos años e inhabilitación especial de tres a seis años al funcionario a cargo de la repartición, establecimiento, departamento, dependencia o cualquier otro organismo, si las circunstancias del caso permiten establecer que el hecho no se hubiese cometido de haber mediado la debida vigilancia o adoptado los recaudos necesarios por dicho funcionario.",
+      "Temporalidad": "de seis meses a dos años e inhabilitación especial de tres a seis años",
+      "Cardinalidad": "Negativa"
+    },
+    {
+      "Articulo": "145",
+      "Verbo": "omitiere",
+      "Contexto": "omitiere o retardare, injustificadamente, poner en libertad a un detenido o preso.",
+      "Temporalidad": "de uno a tres años",
+      "Cardinalidad": "Negativa"
+    },
+    {
+      "Articulo": "145 bis",
+      "Verbo": "no entregare",
+      "Contexto": "será reprimido con prisión de dos a seis años el que, sin las formalidades prescriptas por la ley, no entregare a la autoridad competente a quien deba ser entregado o poniéndolo en libertad lo retuviere en su poder.",
+      "Temporalidad": "de dos a seis años",
+      "Cardinalidad": "Negativa"
+    },
+    {
+      "Articulo": "146",
+      "Verbo": "sustraer",
+      "Contexto": "sustrajere a un menor de 10 años del poder de sus padres, tutor o persona encargada de él, y el que lo retuviere u ocultare.",
+      "Temporalidad": "de 5 a 15 años",
+      "Cardinalidad": "Negativa"
+    }
+  ]
+}
+

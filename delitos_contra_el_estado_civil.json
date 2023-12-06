@@ -1,0 +1,62 @@
+{
+  "DelitosContraElEstadoCivil": {
+    "CapituloI": {
+      "Titulo": "Matrimonios Ilegales",
+      "Articulos": [
+        {
+          "Articulo": "134",
+          "Verbo": "serán reprimidos",
+          "Contexto": "los que contrajeren matrimonio sabiendo ambos que existe impedimento que cause su nulidad absoluta.",
+          "Temporalidad": "Prisión de uno a cuatro años",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "135",
+          "Verbo": "serán reprimidos",
+          "Contexto": "El que contrajere matrimonio cuando, sabiendo que existe impedimento que cause su nulidad absoluta, ocultare esta circunstancia al otro contrayente; El que engañando a una persona, simulare matrimonio con ella.",
+          "Temporalidad": "Prisión de dos a seis años",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "136",
+          "Verbo": "El oficial público que a sabiendas autorizare",
+          "Contexto": "un matrimonio de los comprendidos en los artículos anteriores, sufrirá, en su caso, la pena que en ellos se determina. Si lo autorizare sin saberlo, cuando su ignorancia provenga de no haber llenado los requisitos que la ley prescribe para la celebración del matrimonio, la pena será de multa de setecientos cincuenta a pesos doce mil quinientos e inhabilitación especial por seis meses a dos años. Sufrirá multa de pesos setecientos cincuenta a pesos doce mil quinientos el oficial público que, fuera de los demás casos de este artículo, procediere a la celebración de un matrimonio sin haber observado todas las formalidades exigidas por la ley.",
+          "Temporalidad": "Prisión, multa e inhabilitación",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "137",
+          "Verbo": "En la misma pena incurrirá el representante legítimo de un menor impúber",
+          "Contexto": "que diere el consentimiento para el matrimonio del mismo.",
+          "Temporalidad": "Prisión y multa",
+          "Cardinalidad": -1
+        }
+      ]
+    },
+    "CapituloII": {
+      "Titulo": "Supresión y suposición del estado civil y de la Identidad",
+      "Articulos": [
+        {
+          "Articulo": "138",
+          "Verbo": "Se aplicará prisión de 1 a 4 años al que, por un acto cualquiera, hiciere incierto, alterare o suprimiere el estado civil de otro.",
+          "Temporalidad": "Prisión de 1 a 4 años",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "139",
+          "Verbo": "Se impondrá prisión de 2 a 6 años",
+          "Contexto": "A la mujer que fingiere preñez o parto para dar a su supuesto hijo derechos que no le correspondan. Al que, por un acto cualquiera, hiciere incierto, alterare o suprimiere la identidad de un menor de 10 años, y el que lo retuviere u ocultare.",
+          "Temporalidad": "Prisión de 2 a 6 años",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "139 bis",
+          "Verbo": "Será reprimido con reclusión o prisión de 3 a 10 años, el que facilitare, promoviere o de cualquier modo intermediare en la perpetración de los delitos comprendidos en este Capítulo, haya mediado o no precio o promesa remuneratoria o ejercido amenaza o abuso de autoridad. Incurrirán en las penas establecidas en el párrafo anterior y sufrirán, además, inhabilitación especial por doble tiempo que el de la condena, el funcionario público o profesional de la salud que cometa alguna de las conductas previstas en este Capítulo.",
+          "Temporalidad": "Reclusión o prisión de 3 a 10 años y inhabilitación especial",
+          "Cardinalidad": -1
+        }
+      ]
+    }
+  }
+}
+

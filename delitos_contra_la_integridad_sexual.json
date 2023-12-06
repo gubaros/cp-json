@@ -1,0 +1,67 @@
+{
+  "DelitosContraLaIntegridadSexual": {
+    "CapituloII": {
+      "Titulo": "Abuso Sexual",
+      "Articulos": [
+        {
+          "Articulo": "119",
+          "Verbo": "será reprimido",
+          "Contexto": "abusare sexualmente de persona de uno u otro sexo cuando, ésta fuera menor de trece años o cuando mediare violencia, amenaza, abuso coactivo o intimidatorio de una relación de dependencia, de autoridad, o de poder, o aprovechándose de que la víctima por cualquier causa no haya podido consentir libremente la acción.",
+          "Temporalidad": "Reclusión o prisión de seis meses a cuatro años",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "120",
+          "Verbo": "será reprimido",
+          "Contexto": "realizare algunas de las acciones previstas en el segundo o en el tercer párrafo del artículo 119 con una persona menor de dieciséis años, aprovechándose de su inmadurez sexual, en razón de la mayoría de edad del autor, su relación de preeminencia respecto de la víctima, u otra circunstancia equivalente, siempre que no resultare un delito más severamente penado.",
+          "Temporalidad": "Prisión o reclusión de tres a seis años",
+          "Cardinalidad": -1
+        }
+      ]
+    },
+    "CapituloIII": {
+      "Titulo": "Corrupción de Menores",
+      "Articulos": [
+        {
+          "Articulo": "125",
+          "Verbo": "será reprimido",
+          "Contexto": "promoviere o facilitare la corrupción de menores de dieciocho años, aunque mediare el consentimiento de la víctima",
+          "Temporalidad": "Reclusión o prisión de tres a diez años",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "125 bis",
+          "Verbo": "será reprimido",
+          "Contexto": "promoviere o facilitare la prostitución de menores de dieciocho años, aunque mediare el consentimiento de la víctima",
+          "Temporalidad": "Reclusión o prisión de cuatro a diez años",
+          "Cardinalidad": -1
+        }
+      ]
+    },
+    "CapituloIV": {
+      "Titulo": "Explotación Sexual",
+      "Articulos": [
+        {
+          "Articulo": "127",
+          "Verbo": "será reprimido",
+          "Contexto": "explotare económicamente el ejercicio de la prostitución de una persona, mediando engaño, abuso coactivo o intimidatorio de una relación de dependencia, de autoridad, de poder, violencia, amenaza o cualquier otro medio de intimidación o coerción.",
+          "Temporalidad": "Prisión de tres a seis años",
+          "Cardinalidad": -1
+        }
+      ]
+    },
+    "CapituloV": {
+      "Titulo": "Pornografía Infantil",
+      "Articulos": [
+        {
+          "Articulo": "128",
+          "Verbo": "será reprimido",
+          "Contexto": "ejecutare o hiciese ejecutar por otros actos de exhibiciones obscenas expuestas a ser vistas involuntariamente por terceros.",
+          "Temporalidad": "Prisión de uno a cuatro años",
+          "Cardinalidad": -1
+        }
+      ]
+    }
+  }
+}
+

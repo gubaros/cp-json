@@ -1,0 +1,93 @@
+{
+  "DelitosContraElHonor": {
+    "CapituloI": {
+      "Titulo": "Calumnia y Falsa Imputación",
+      "Articulos": [
+        {
+          "Articulo": "109",
+          "Verbo": "será reprimida",
+          "Contexto": "calumnia o falsa imputación a una persona física determinada de la comisión de un delito concreto y circunstanciado que dé lugar a la acción pública",
+          "Temporalidad": "multa de pesos tres mil ($ 3.000.-) a pesos treinta mil ($ 30.000.-)",
+          "Cardinalidad": -1
+        }
+      ]
+    },
+    "CapituloII": {
+      "Titulo": "Injurias",
+      "Articulos": [
+        {
+          "Articulo": "110",
+          "Verbo": "será reprimido",
+          "Contexto": "intencionalmente deshonrare o desacreditare a una persona física determinada",
+          "Temporalidad": "multa de pesos mil quinientos ($ 1.500.-) a pesos veinte mil ($ 20.000.-)",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "111",
+          "Verbo": "podrá probar",
+          "Contexto": "verdad de la imputación salvo en los casos siguientes: Si el hecho atribuido a la persona ofendida, hubiere dado lugar a un proceso penal. Si el querellante pidiera la prueba de la imputación dirigida contra él.",
+          "Temporalidad": "Si se probare la verdad de las imputaciones, el acusado quedará exento de pena.",
+          "Cardinalidad": -1
+        }
+      ]
+    },
+    "CapituloIII": {
+      "Titulo": "Difamación",
+      "Articulos": [
+        {
+          "Articulo": "113",
+          "Verbo": "será reprimido",
+          "Contexto": "publicare o reprodujere, por cualquier medio, injurias o calumnias inferidas por otro",
+          "Temporalidad": "como autor de las injurias o calumnias de que se trate",
+          "Cardinalidad": -1
+        }
+      ]
+    },
+    "CapituloIV": {
+      "Titulo": "Disposiciones Comunes",
+      "Articulos": [
+        {
+          "Articulo": "114",
+          "Verbo": "cuando la injuria o calumnia se hubiere propagado por medio de la prensa, en la capital y territorios nacionales",
+          "Contexto": "quedarán sometidos a las sanciones del presente código y el juez o tribunal ordenará, si lo pidiere el ofendido, que los editores inserten en los respectivos impresos o periódicos, a costa del culpable, la sentencia o satisfacción.",
+          "Temporalidad": "Sanciones del presente código y la obligación de insertar la sentencia o satisfacción",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "115",
+          "Verbo": "las injurias proferidas por los litigantes, apoderados o defensores, en los escritos, discursos o informes producidos ante los tribunales y no dados a publicidad",
+          "Contexto": "quedarán sujetas únicamente a las correcciones disciplinarias correspondientes.",
+          "Temporalidad": "Sujetas a correcciones disciplinarias correspondientes",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "116",
+          "Verbo": "cuando las injurias fueren recíprocas",
+          "Contexto": "el tribunal podrá, según las circunstancias, declarar exentas de pena a las dos partes o a alguna de ellas.",
+          "Temporalidad": "Declarar exentas de pena a las dos partes o a alguna de ellas",
+          "Cardinalidad": -1
+        },
+        {
+          "Articulo": "117",
+          "Verbo": "el acusado de injuria o calumnia quedará exento de pena si se retractare públicamente",
+          "Contexto": "La retractación no importará para el acusado la aceptación de su culpabilidad.",
+          "Temporalidad": "Exento de pena si se retractare públicamente",
+          "Cardinalidad": -1
+        }
+      ]
+    },
+    "CapituloV": {
+      "Titulo": "Violación de Secretos",
+      "Articulos": [
+        {
+          "Articulo": "117 bis",
+          "Verbo": "La pena será de seis meses a tres años, al que proporcionara a un tercero a sabiendas información falsa contenida en un archivo de datos personales.",
+          "Contexto": "La escala penal se aumentará en la mitad del mínimo y del máximo, cuando del hecho se derive perjuicio a alguna persona. Cuando el autor o responsable del ilícito sea funcionario público en ejercicio de sus funciones, se le aplicará la accesoria de inhabilitación para el desempeño de cargos públicos por el doble del tiempo que el de la condena.",
+          "Temporalidad": "Pena de seis meses a tres años, con aumento en la escala penal por perjuicio a persona y accesoria para funcionario público",
+          "Cardinalidad": -1
+        }
+      ]
+    }
+  }
+}
+
